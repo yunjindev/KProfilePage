@@ -1,11 +1,15 @@
 import './App.css'
-import { TopBar } from './Components/TopBar.jsx'
+import { InfoSection } from './pages/InfoSection.jsx'
+
+import { TopBar } from './pages/TopBar.jsx'
+
 
 function App() {
 
   return (
     <>
       <TopBar />
+      <InfoSection />
     </>
   )
 }

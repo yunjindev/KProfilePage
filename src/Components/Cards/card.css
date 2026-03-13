@@ -1,0 +1,20 @@
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    flex-direction: column;
+
+}
+
+.cardgrid {
+    padding: 40px 900px 20px 20px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    list-style: none;
+    width: 100px;
+    column-gap: 10px;
+}
+img {
+    width: 250  px;
+}
