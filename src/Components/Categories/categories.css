@@ -1,0 +1,17 @@
+.categoryContainer {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #9675e5;
+}
+
+.arrow {
+    width: 10px;
+    height: 10px;
+    align-items: center;
+    position: relative;
+    bottom: 5px;
+    padding-left: 5px;
+}

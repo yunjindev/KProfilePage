@@ -1,0 +1,22 @@
+input {
+    border-radius: 5px;
+    height: 40px;
+    width: 190px;
+    padding-left: 10px;
+
+}
+
+.container {
+    background-color: #7b4fbc;
+    display: flex;
+    justify-content: space-between;
+    padding:10px 150px 10px 150px;
+    align-items: center;
+    text-align: center;
+}
+
+.searchIcon {
+    position: relative;
+    right: 30px;
+    color: gray;
+}
